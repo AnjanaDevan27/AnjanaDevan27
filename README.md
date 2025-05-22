@@ -26,7 +26,7 @@ Matplotlib, Seaborn, ggplot2
 Google Cloud (BigQuery, Cloud SQL)
 
 ### 🧰 Libraries & Tools
-Pandas, NumPy, SciPy, Scikit-learn, TensorFlow, PyTorch, Keras, NLTK, spaCy, BeautifulSoup, Apache Airflow, Kafka, DBT, PySpark, FastAPI, Git, Docker, CI/CD
+Pandas, NumPy, SciPy, Scikit-learn, TensorFlow, PyTorch, Keras, NLTK, spaCy, BeautifulSoup, Apache Airflow, PySpark, FastAPI, Git, Docker, CI/CD
 
 ---
 
