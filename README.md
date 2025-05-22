@@ -4,7 +4,7 @@
 
 I'm a Data Science graduate student at Northeastern University with hands-on experience in building data-driven solutions across analytics and cloud environments.
 
-I specialize in designing cloud-native data pipelines, analytical systems, and machine learning models using Python, R, SQL, and GCP. My interests span data engineering, machine learning, and business intelligence — with a focus on solving real-world problems through data.
+I specialize in designing cloud-native data pipelines, analytical systems, and machine learning models. My interests span data engineering, machine learning, and business intelligence — with a focus on solving real-world problems through data.
 
 ## 🛠️ Technical Skills
 
