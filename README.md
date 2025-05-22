@@ -6,8 +6,6 @@ I'm a passionate and driven Data Science graduate student at Northeastern Univer
 
 I've transitioned into data-centric roles where I design analytical systems, build cloud-native data pipelines, and derive insights using statistical and machine learning techniques.
 
----
-
 ## 🛠️ Technical Skills
 
 ### 👨‍💻 Programming Languages
@@ -28,11 +26,9 @@ Google Cloud (BigQuery, Cloud SQL)
 ### 🧰 Libraries & Tools
 Pandas, NumPy, SciPy, Scikit-learn, TensorFlow, PyTorch, Keras, NLTK, spaCy, BeautifulSoup, Apache Airflow, PySpark, FastAPI, Git, Docker, CI/CD
 
----
-
 ## 🤝 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/anjana-deivasigamani)
 - 📧 Email: deivasigamani.a@northeastern.edu
 
----
+
