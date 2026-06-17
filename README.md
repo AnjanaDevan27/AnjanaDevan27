@@ -29,7 +29,5 @@ Pandas, NumPy, SciPy, Scikit-learn, TensorFlow, PyTorch, Keras, NLTK, spaCy, Bea
 ## 🤝 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/anjana-deivasigamani)
-- 📧 Email: deivasigamani.a@northeastern.edu
-- 🌐 Portfolio: https://www.datascienceportfol.io/AnjanaDeivasigamani
-
+- 📧 Email: anjanadevan27@gmail.com
 
