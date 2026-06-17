@@ -23,8 +23,6 @@ My interests sit at the intersection of AI and real world impact, building intel
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6B46C1?style=for-the-badge&logo=openai&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![ROUGE](https://img.shields.io/badge/ROUGE-gray?style=for-the-badge&logoColor=white)
-![BERTScore](https://img.shields.io/badge/BERTScore-gray?style=for-the-badge&logoColor=white)
 
 ### 🧠 Machine Learning
 
