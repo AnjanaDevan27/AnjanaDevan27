@@ -77,4 +77,4 @@ My interests sit at the intersection of AI and real world impact, building intel
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjana-deivasigamani)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjanadevan27@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-XXXXX-YYYYY?style=for-the-badge&logo=ZZZZZ)](https://anjanadevan27.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-C2748A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anjanadevan27.github.io)
